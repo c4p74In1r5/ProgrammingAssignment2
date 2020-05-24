@@ -1,9 +1,9 @@
 # Coursera R Programming - Assignment 2
 # The following 2 functions demonstrate caching of inverses of matrices
 #  - Caching is an expensive operation computationally. These functions help to 
-#  - reduce the computations by avoiding repeated inverse operations by caching
-#  - the inverse when it is calculated for the first time
-# Inverse is calculated by using the builtin solve() function
+#    reduce the computations by avoiding repeated inverse operations by caching
+#    the inverse when it is calculated for the first time
+#  - Inverse is calculated by using the builtin solve() function
 
 # The function makeCacheMatrix() returns list of 4 functions for the given matrix x.
 #  - set - initializes and caches the matrix x
